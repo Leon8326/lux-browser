@@ -1,0 +1,8 @@
+name: lux-browser-release
+base: core22
+version: '3.00'
+summary: Lux Browser's release snap
+description: |
+  Lux Browser's Installer required snap to download Lux Browser
+grade: nightly
+confinement: strict
