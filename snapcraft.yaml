@@ -1,8 +1,0 @@
-name: lux-browser-updates
-base: core22
-version: '0.10'
-summary: Lux Browser's release snap
-description: |
-  Lux Browser's required snap to download Updates
-grade: nightly
-confinement: strict
